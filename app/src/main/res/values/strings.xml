@@ -1,3 +1,112 @@
+<?xml version="1.0" encoding="utf-8"?>
 <resources>
+    <!-- App -->
     <string name="app_name">Insomniac</string>
+    <string name="app_subtitle">Contorizează-ți somnul</string>
+
+    <!-- Nav -->
+    <string name="nav_home">Principal</string>
+    <string name="nav_history">Istoric</string>
+    <string name="nav_settings">Setări</string>
+
+    <!-- Home screen -->
+    <string name="sleeping">Somn ușor</string>
+    <string name="current_time">Ora curentă</string>
+    <string name="btn_sleep">Mă pun la somn</string>
+    <string name="btn_wake">M-am trezit</string>
+
+    <!-- History screen -->
+    <string name="history_title">Istoricul tău</string>
+    <string name="status_general">Status General</string>
+    <string name="no_data">Nu ai date încă.</string>
+    <string name="start_recording">Începe să înregistrezi somnul.</string>
+    <string name="global_average">Medie globală: %1$sh %2$sm / noapte din %3$d %4$s</string>
+    <string name="day_singular">zi</string>
+    <string name="day_plural">zile</string>
+    <string name="weekly_average">Media Săptămânii Curente</string>
+    <string name="weekly_subtitle">(Duminică – Sâmbătă)</string>
+    <string name="no_records_this_week">Nicio înregistrare săptămâna aceasta.</string>
+    <string name="weekly_per_night">📅 %1$sh %2$sm / noapte</string>
+    <string name="weekly_nights_count">Media din %1$d %2$s înregistrate până acum</string>
+    <string name="night_singular">noapte</string>
+    <string name="night_plural">nopți</string>
+    <string name="tip_ideal">💡 Ideal: 7–9 ore de somn pe noapte</string>
+    <string name="label_excellent">Excelent</string>
+    <string name="label_insufficient">Insuficient</string>
+    <string name="hours_slept">Ore dormite: %1$sh %2$sm</string>
+    <string name="fell_asleep_at">Am adormit la: %1$s</string>
+    <string name="woke_up_at">M-am trezit la: %1$s</string>
+    <string name="no_times_saved">Orele nu au fost salvate pentru această sesiune.</string>
+    <string name="delete_session">Șterge sesiunea</string>
+    <string name="delete_confirm_title">Ștergi sesiunea?</string>
+    <string name="delete_confirm_text">Sigur vrei să ștergi sesiunea din %1$s?</string>
+    <string name="btn_delete">Șterge</string>
+    <string name="btn_cancel">Anulează</string>
+
+    <!-- Sleep status labels -->
+    <string name="status_champion">Dormitor Campion</string>
+    <string name="status_champion_detail">Dormi mai mult decât recomandat. Bravo! Dar să nici nu exagerezi prea mult, nu va fi bine. Dacă stai în acest range va fi ok.</string>
+    <string name="status_healthy">Odihnit și Sănătos</string>
+    <string name="status_healthy_detail">Felicitări! Ești în intervalul optim.</string>
+    <string name="status_tired">Ușor Obosit</string>
+    <string name="status_tired_detail">Aproape de ideal. Adaugă pe viitor 30–60 min. în plus.</string>
+    <string name="status_fatigued">Obosit</string>
+    <string name="status_fatigued_detail">Deficitul de somn afectează concentrarea.</string>
+    <string name="status_exhausted">Epuizat</string>
+    <string name="status_exhausted_detail">Somn insuficient cronic. Te rog frumos culcă-te mai mult!</string>
+    <string name="status_deprived">Privat de Somn</string>
+    <string name="status_deprived_detail">Risc ridicat! Sub 4 ore dormite e periculos. Dacă continui așa vei avea probleme grave de sănătate. Pune stop și odihnește-te!</string>
+
+    <!-- Settings screen -->
+    <string name="settings_title">Setări</string>
+    <string name="settings_profile">Profil</string>
+    <string name="settings_profile_desc">Editează poza și username-ul</string>
+    <string name="settings_dark_mode">Dark Mode</string>
+    <string name="settings_dark_auto">Gestionat automat în timpul somnului</string>
+    <string name="settings_dark_active">Mod întunecat activ</string>
+    <string name="settings_light_active">Mod luminos activ</string>
+    <string name="settings_btn_light">☀️ Light</string>
+    <string name="settings_btn_dark">🌙 Dark</string>
+    <string name="settings_accent">Culoare globală</string>
+    <string name="settings_accent_desc">Accent: %1$s</string>
+    <string name="settings_language">Limbă</string>
+    <string name="settings_language_desc">Limbă curentă: %1$s</string>
+    <string name="language_modal_title">Alege limba</string>
+    <string name="language_modal_subtitle">Schimbă limba aplicației</string>
+    <string name="btn_close">Închide</string>
+    <string name="settings_about">Despre Aplicație</string>
+    <string name="settings_about_desc">Informații despre aplicație</string>
+    <string name="about_title">Despre Aplicație</string>
+    <string name="about_text">Insomniac este o aplicație simplă pentru monitorizarea somnului. Înregistrează orele de somn, îți arată statistici săptămânale și te ajută să îți îmbunătățești rutina de odihnă.</string>
+    <string name="understand">Am înțeles</string>
+
+    <!-- Accent color names -->
+    <string name="accent_violet">Violet</string>
+    <string name="accent_blue">Albastru</string>
+    <string name="accent_green">Verde</string>
+    <string name="accent_pink">Roz</string>
+    <string name="accent_orange">Portocaliu</string>
+    <string name="accent_red">Roșu</string>
+    <string name="accent_cyan">Cyan</string>
+    <string name="accent_yellow">Galben</string>
+
+    <!-- Profile edit screen -->
+    <string name="profile_title">Editează Profilul</string>
+    <string name="profile_photo_hint">Apasă pe poză pentru a o schimba</string>
+    <string name="profile_username_label">Username</string>
+    <string name="profile_username_placeholder">Introdu un username...</string>
+    <string name="btn_save">Salvează</string>
+
+    <!-- Days of week -->
+    <string name="day_monday">Luni</string>
+    <string name="day_tuesday">Marți</string>
+    <string name="day_wednesday">Miercuri</string>
+    <string name="day_thursday">Joi</string>
+    <string name="day_friday">Vineri</string>
+    <string name="day_saturday">Sâmbătă</string>
+    <string name="day_sunday">Duminică</string>
+
+    <!-- Global color modal -->
+    <string name="accent_modal_title">Culoare globală</string>
+    <string name="accent_modal_subtitle">Alege culoarea principală a aplicației</string>
 </resources>

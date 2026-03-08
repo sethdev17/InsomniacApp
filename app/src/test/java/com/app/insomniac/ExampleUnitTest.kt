@@ -1,4 +1,4 @@
-package com.example.aplicatiamea
+package com.app.insomniac
 
 import org.junit.Test
 

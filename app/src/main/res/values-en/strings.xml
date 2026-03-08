@@ -1,0 +1,112 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- App -->
+    <string name="app_name">Insomniac</string>
+    <string name="app_subtitle">Track your sleep</string>
+
+    <!-- Nav -->
+    <string name="nav_home">Home</string>
+    <string name="nav_history">History</string>
+    <string name="nav_settings">Settings</string>
+
+    <!-- Home screen -->
+    <string name="sleeping">Sleep tight</string>
+    <string name="current_time">Current time</string>
+    <string name="btn_sleep">Go to sleep</string>
+    <string name="btn_wake">I woke up</string>
+
+    <!-- History screen -->
+    <string name="history_title">Your history</string>
+    <string name="status_general">General Status</string>
+    <string name="no_data">No data yet.</string>
+    <string name="start_recording">Start tracking your sleep.</string>
+    <string name="global_average">Global average: %1$sh %2$sm / night over %3$d %4$s</string>
+    <string name="day_singular">day</string>
+    <string name="day_plural">days</string>
+    <string name="weekly_average">Current Week Average</string>
+    <string name="weekly_subtitle">(Sunday – Saturday)</string>
+    <string name="no_records_this_week">No records this week.</string>
+    <string name="weekly_per_night">📅 %1$sh %2$sm / night</string>
+    <string name="weekly_nights_count">Average from %1$d %2$s recorded so far</string>
+    <string name="night_singular">night</string>
+    <string name="night_plural">nights</string>
+    <string name="tip_ideal">💡 Ideal: 7–9 hours of sleep per night</string>
+    <string name="label_excellent">Excellent</string>
+    <string name="label_insufficient">Insufficient</string>
+    <string name="hours_slept">Hours slept: %1$sh %2$sm</string>
+    <string name="fell_asleep_at">Fell asleep at: %1$s</string>
+    <string name="woke_up_at">Woke up at: %1$s</string>
+    <string name="no_times_saved">Times were not saved for this session.</string>
+    <string name="delete_session">Delete session</string>
+    <string name="delete_confirm_title">Delete session?</string>
+    <string name="delete_confirm_text">Are you sure you want to delete the session from %1$s?</string>
+    <string name="btn_delete">Delete</string>
+    <string name="btn_cancel">Cancel</string>
+
+    <!-- Sleep status labels -->
+    <string name="status_champion">Sleep Champion</string>
+    <string name="status_champion_detail">You sleep more than recommended. Well done! But don\'t overdo it, it won\'t be good. If you stay within this range, it will be okay.</string>
+    <string name="status_healthy">Rested and Healthy</string>
+    <string name="status_healthy_detail">Congratulations! You\'re in the optimal range.</string>
+    <string name="status_tired">Slightly Tired</string>
+    <string name="status_tired_detail">Close to ideal. Add an extra 30–60 minutes in the future.</string>
+    <string name="status_fatigued">Fatigued</string>
+    <string name="status_fatigued_detail">Sleep deprivation affects concentration.</string>
+    <string name="status_exhausted">Exhausted</string>
+    <string name="status_exhausted_detail">Chronic sleep deprivation. Please get more sleep!</string>
+    <string name="status_deprived">Sleep Deprived</string>
+    <string name="status_deprived_detail">High risk! Sleeping less than 4 hours is dangerous. If you continue like this, you will have serious health problems. Stop and get some rest!</string>
+
+    <!-- Settings screen -->
+    <string name="settings_title">Settings</string>
+    <string name="settings_profile">Profile</string>
+    <string name="settings_profile_desc">Edit photo and username</string>
+    <string name="settings_dark_mode">Dark Mode</string>
+    <string name="settings_dark_auto">Managed automatically during sleep</string>
+    <string name="settings_dark_active">Dark mode active</string>
+    <string name="settings_light_active">Light mode active</string>
+    <string name="settings_btn_light">☀️ Light</string>
+    <string name="settings_btn_dark">🌙 Dark</string>
+    <string name="settings_accent">Global color</string>
+    <string name="settings_accent_desc">Accent: %1$s</string>
+    <string name="settings_language">Language</string>
+    <string name="settings_language_desc">Current language: %1$s</string>
+    <string name="language_modal_title">Choose language</string>
+    <string name="language_modal_subtitle">Change the app language</string>
+    <string name="btn_close">Close</string>
+    <string name="settings_about">About the App</string>
+    <string name="settings_about_desc">Information about the app</string>
+    <string name="about_title">About the App</string>
+    <string name="about_text">Insomniac is a simple app for monitoring your sleep. It records your sleep hours, shows you weekly statistics, and helps you improve your sleep routine.</string>\
+    <string name="understand">I understand</string>
+
+    <!-- Accent color names -->
+    <string name="accent_violet">Violet</string>
+    <string name="accent_blue">Blue</string>
+    <string name="accent_green">Green</string>
+    <string name="accent_pink">Pink</string>
+    <string name="accent_orange">Orange</string>
+    <string name="accent_red">Red</string>
+    <string name="accent_cyan">Cyan</string>
+    <string name="accent_yellow">Yellow</string>
+
+    <!-- Profile edit screen -->
+    <string name="profile_title">Edit Profile</string>
+    <string name="profile_photo_hint">Tap the photo to change it</string>
+    <string name="profile_username_label">Username</string>
+    <string name="profile_username_placeholder">Enter a username...</string>
+    <string name="btn_save">Save</string>
+
+    <!-- Days of week -->
+    <string name="day_monday">Monday</string>
+    <string name="day_tuesday">Tuesday</string>
+    <string name="day_wednesday">Wednesday</string>
+    <string name="day_thursday">Thursday</string>
+    <string name="day_friday">Friday</string>
+    <string name="day_saturday">Saturday</string>
+    <string name="day_sunday">Sunday</string>
+
+    <!-- Global color modal -->
+    <string name="accent_modal_title">Global color</string>
+    <string name="accent_modal_subtitle">Choose the app\'s main color</string>
+</resources>

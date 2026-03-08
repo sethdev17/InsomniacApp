@@ -1,0 +1,112 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- App -->
+    <string name="app_name">Insomniac</string>
+    <string name="app_subtitle">Suivez votre sommeil</string>
+
+    <!-- Nav -->
+    <string name="nav_home">Accueil</string>
+    <string name="nav_history">Historique</string>
+    <string name="nav_settings">Paramètres</string>
+
+    <!-- Home screen -->
+    <string name="sleeping">Bonne nuit</string>
+    <string name="current_time">Heure actuelle</string>
+    <string name="btn_sleep">Aller dormir</string>
+    <string name="btn_wake">Je me suis réveillé</string>
+
+    <!-- History screen -->
+    <string name="history_title">Votre historique</string>
+    <string name="status_general">Statut Général</string>
+    <string name="no_data">Pas encore de données.</string>
+    <string name="start_recording">Commencez à suivre votre sommeil.</string>
+    <string name="global_average">Moyenne globale : %1$sh %2$sm / nuit sur %3$d %4$s</string>
+    <string name="day_singular">jour</string>
+    <string name="day_plural">jours</string>
+    <string name="weekly_average">Moyenne de la semaine actuelle</string>
+    <string name="weekly_subtitle">(Dimanche – Samedi)</string>
+    <string name="no_records_this_week">Aucun enregistrement cette semaine.</string>
+    <string name="weekly_per_night">📅 %1$sh %2$sm / nuit</string>
+    <string name="weekly_nights_count">Moyenne de %1$d %2$s enregistrées jusqu\'à présent</string>
+    <string name="night_singular">nuit</string>
+    <string name="night_plural">nuits</string>
+    <string name="tip_ideal">💡 Idéal : 7–9 heures par nuit pour les adultes</string>
+    <string name="label_excellent">Excellent</string>
+    <string name="label_insufficient">Insuffisant</string>
+    <string name="hours_slept">Heures dormies : %1$sh %2$sm</string>
+    <string name="fell_asleep_at">Endormi à : %1$s</string>
+    <string name="woke_up_at">Réveillé à : %1$s</string>
+    <string name="no_times_saved">Les heures n\'ont pas été enregistrées pour cette session.</string>
+    <string name="delete_session">Supprimer la session</string>
+    <string name="delete_confirm_title">Supprimer la session ?</string>
+    <string name="delete_confirm_text">Êtes-vous sûr de vouloir supprimer la session du %1$s ?</string>
+    <string name="btn_delete">Supprimer</string>
+    <string name="btn_cancel">Annuler</string>
+
+    <!-- Sleep status labels -->
+    <string name="status_champion">Champion du sommeil</string>
+    <string name="status_champion_detail">Vous dormez plus que la durée recommandée. Bravo! Mais n\'exagérez pas trop, ce ne serait pas bon. Si vous restez dans cette fourchette, tout ira bien.</string>
+    <string name="status_healthy">Reposé et en bonne santé</string>
+    <string name="status_healthy_detail">Félicitations! Vous êtes dans la fourchette optimale. </string>
+    <string name="status_tired">Légèrement fatigué</string>
+    <string name="status_tired_detail">Presque idéal. Ajoutez 30 à 60 minutes supplémentaires à l\'avenir. supplémentaires à l\'avenir.</string>
+    <string name="status_fatigued">Fatigué</string>
+    <string name="status_fatigued_detail">Le manque de sommeil affecte la concentration.</string>
+    <string name="status_exhausted">Épuisé</string>
+    <string name="status_exhausted_detail">Manque de sommeil chronique. S\'il te plaît, dors davantage!</string>
+    <string name="status_deprived">Privé de sommeil</string>
+    <string name="status_deprived_detail">Risque élevé! Dormir moins de 4 heures est dangereux. Si tu continues ainsi, tu auras de graves problèmes de santé. Arrête et repose-toi!</string>
+
+    <!-- Settings screen -->
+    <string name="settings_title">Paramètres</string>
+    <string name="settings_profile">Profil</string>
+    <string name="settings_profile_desc">Modifier photo et nom d\'utilisateur</string>
+    <string name="settings_dark_mode">Mode Sombre</string>
+    <string name="settings_dark_auto">Géré automatiquement pendant le sommeil</string>
+    <string name="settings_dark_active">Mode sombre actif</string>
+    <string name="settings_light_active">Mode clair actif</string>
+    <string name="settings_btn_light">☀️ Clair</string>
+    <string name="settings_btn_dark">🌙 Sombre</string>
+    <string name="settings_accent">Couleur globale</string>
+    <string name="settings_accent_desc">Accent : %1$s</string>
+    <string name="settings_language">Langue</string>
+    <string name="settings_language_desc">Langue actuelle : %1$s</string>
+    <string name="language_modal_title">Choisir la langue</string>
+    <string name="language_modal_subtitle">Changer la langue de l\'application</string>
+    <string name="btn_close">Fermer</string>
+    <string name="settings_about">À propos de l\'application</string>
+    <string name="settings_about_desc">Informations sur l\'application</string>
+    <string name="about_title">À propos de l\'application</string>
+    <string name="about_text">Insomniac est une application simple permettant de surveiller votre sommeil. Elle enregistre vos heures de sommeil, vous montre des statistiques hebdomadaires et vous aide à améliorer votre routine de repos.</string>
+    <string name="understand">J\'ai compris</string>
+
+    <!-- Accent color names -->
+    <string name="accent_violet">Violet</string>
+    <string name="accent_blue">Bleu</string>
+    <string name="accent_green">Vert</string>
+    <string name="accent_pink">Rose</string>
+    <string name="accent_orange">Orange</string>
+    <string name="accent_red">Rouge</string>
+    <string name="accent_cyan">Cyan</string>
+    <string name="accent_yellow">Jaune</string>
+
+    <!-- Profile edit screen -->
+    <string name="profile_title">Modifier le Profil</string>
+    <string name="profile_photo_hint">Appuyez sur la photo pour la changer</string>
+    <string name="profile_username_label">Nom d\'utilisateur</string>
+    <string name="profile_username_placeholder">Entrez un nom d\'utilisateur...</string>
+    <string name="btn_save">Enregistrer</string>
+
+    <!-- Days of week -->
+    <string name="day_monday">Lundi</string>
+    <string name="day_tuesday">Mardi</string>
+    <string name="day_wednesday">Mercredi</string>
+    <string name="day_thursday">Jeudi</string>
+    <string name="day_friday">Vendredi</string>
+    <string name="day_saturday">Samedi</string>
+    <string name="day_sunday">Dimanche</string>
+
+    <!-- Global color modal -->
+    <string name="accent_modal_title">Couleur globale</string>
+    <string name="accent_modal_subtitle">Choisissez la couleur principale de l\'application</string>
+</resources>
